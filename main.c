@@ -4,7 +4,7 @@
 #include"Activity3.h"      //Header file for Activity_3
 #include"Activity4.h"      //Header file for Activity_4
 
-volatile int LED_STATUS=0; //Variable storing LED status
+volatile int LED_STATUS=1; //Variable storing LED status
 volatile int temp_out=0;   //Variable storing Temp Out
 uint16_t temp=0xFFFF;      //Variable storing Temp Input
 
