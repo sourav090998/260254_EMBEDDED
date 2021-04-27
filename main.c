@@ -4,7 +4,7 @@
 #include"Activity3.h"      //Header file for Activity_3
 #include"Activity4.h"      //Header file for Activity_4
 
-volatile int LED_STATUS=1; //Variable storing LED status
+volatile int LED_STATUS=0; //Variable storing LED status
 volatile int temp_out=0;   //Variable storing Temp Out
 uint16_t temp=0xFFFF;      //Variable storing Temp Input
 
@@ -17,7 +17,7 @@ int main(void)             // Main Funclion
        if(LED_STATUS==1)                // If LED_Status in "TRUE"
        {
            temp=Activity2();            //Function for Reading the Analog value from ADC Pin.
-           temp_out=Activity3(temp);    //Function for setting the PWM according to 'temp' value.
+           temp_out=Activity3(tem_p);    //Function for setting the PWM according to 'temp' value.
            Activity4(temp_out);         //Send the tempout value using UART
 
        }
