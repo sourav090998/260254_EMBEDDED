@@ -6,6 +6,8 @@
 
 ## In Action
 
+### Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
+
 |SW1|SW2|LED|SIMULATION|
 |:--:|:--:|:--:|:--:|
 |0|0|0|![](https://github.com/sourav090998/260254_EMBEDDED/blob/54924e6169ad7057edaa93f7d98ad6f968bf692c/simulation/1%20OFF%202%20OFF.png)|
