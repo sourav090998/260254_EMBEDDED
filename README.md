@@ -22,7 +22,7 @@
 |0-200|20|20 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(30).png)|
 |210-500|40|25 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(29).png)|
 |510-700|70|29 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(28).png)|
-|710-1024|95|33-C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(31).png)|
+|710-1024|95|33-C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/6a96d71ed88214d4b819318cbf3c0529f62aac1e/simulation/Screenshot(31).png)|
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
