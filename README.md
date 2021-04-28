@@ -23,7 +23,6 @@
 |210-500|40|25 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(29).png)|
 |510-700|70|29 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(28).png)|
 |710-1024|95|33-C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(31).png)|
-### Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
