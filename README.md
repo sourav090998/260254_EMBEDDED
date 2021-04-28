@@ -15,7 +15,15 @@
 |1|0|0|![](https://github.com/sourav090998/260254_EMBEDDED/blob/76887153bdeef2a8c958db9a378044be3d528cba/simulation/1%20ON%202%20OFF.png)|
 |1|1|1|![](https://github.com/sourav090998/260254_EMBEDDED/blob/76887153bdeef2a8c958db9a378044be3d528cba/simulation/SW1%20and%20SW2%20ON.png)|
 
+## PWM OUTPUT SIMULATIONS
 
+|Input Analog value|Output PWM|Serial Data Trans|SIMULATION|
+|:--:|:--:|:--:|:--:|
+|0-200|20|20 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(30).png)|
+|210-500|40|25 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(29).png)|
+|510-700|70|29 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(28).png)|
+|710-1024|95|33-C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(31).png)|
+### Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
