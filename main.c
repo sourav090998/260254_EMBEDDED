@@ -17,7 +17,7 @@ int main(void)             // Main Funclion
        if(LED_STATUS==1)                // If LED_Status in "TRUE"
        {
            temp=Activity2();            //Function for Reading the Analog value from ADC Pin.
-           temp_out=Activity3(tem_p);    //Function for setting the PWM according to 'temp' value.
+           temp_out=Activity3(temp);    //Function for setting the PWM according to 'temp' value.
            Activity4(temp_out);         //Send the tempout value using UART
 
        }
