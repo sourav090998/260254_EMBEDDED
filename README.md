@@ -1,4 +1,12 @@
-## THIS FILE CONSISTS OF A CODE FOR AUTOMATIC HEATING SEATS.
+# AUTOMATIC HEATED SEAT
+
+## HARWARE INTERFACE AND CIRCUIT
+![CIRCUIT](https://github.com/sourav090998/260254_EMBEDDED/blob/3cd52b633f245c972de1f65136a537d4de3d3694/simulation/CIRCUIT.png)
+
+## In Action
+|ON|OFF|
+|:--:|:--:|
+|![ON](simulation/ON.png)|![OFF](simulation/OFF.png)|
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
