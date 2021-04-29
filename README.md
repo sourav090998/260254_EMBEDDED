@@ -16,6 +16,7 @@
 |1|1|1|![](https://github.com/sourav090998/260254_EMBEDDED/blob/76887153bdeef2a8c958db9a378044be3d528cba/simulation/SW1%20and%20SW2%20ON.png)|
 
 ## PWM OUTPUT SIMULATIONS
+When the Temprature knob is set to certain position then it gives certain Analog value. This analog value is fed into the Atmega uC which analyzes the analog value and set the PWM output with the desired Duty Cycle and Also sends the Temprature reading through USART.
 
 |Input Analog value|Output PWM|Serial Data Trans|SIMULATION|
 |:--:|:--:|:--:|:--:|
