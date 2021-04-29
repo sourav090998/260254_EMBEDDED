@@ -36,5 +36,4 @@ int Activity3(uint16_t temp)
     }
 
     return temp_out;                            // Return 'temp_out'
-
 }
