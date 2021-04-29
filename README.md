@@ -4,7 +4,7 @@
 ![CIRCUIT](https://github.com/sourav090998/260254_EMBEDDED/blob/3cd52b633f245c972de1f65136a537d4de3d3694/simulation/CIRCUIT.png)
 
 
-## In Action
+## SWITCHES IN ACTION
 
 Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
 
