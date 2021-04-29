@@ -6,7 +6,7 @@
 
 ## In Action
 
-### Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
+Until and unless the seat is occupied and at the same time the heater switch is activated, the Heater should not turn on.
 
 |SW1|SW2|LED|SIMULATION|
 |:--:|:--:|:--:|:--:|
@@ -24,6 +24,8 @@ When the Temprature knob is set to certain position then it gives certain Analog
 |210-500|40|25 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(29).png)|
 |510-700|70|29 C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/e1d0cd95f4b80a04c81b0797c855949a140d2675/simulation/Screenshot%20(28).png)|
 |710-1024|95|33-C|![](https://github.com/sourav090998/260254_EMBEDDED/blob/6a96d71ed88214d4b819318cbf3c0529f62aac1e/simulation/Screenshot(31).png)|
+
+## BADGES
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
