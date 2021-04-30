@@ -1,6 +1,7 @@
 #include<avr/io.h>
 #include<util/delay.h>
 
+
 /** \ UART Configuration block
  *
  * \param ubrr_value uint16_t

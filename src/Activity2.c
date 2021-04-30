@@ -1,6 +1,7 @@
 #include <avr/io.h>
 #include<util/delay.h>
 
+
 /** \brief To read the ADC value of the channel given.
  *
  * \param ch uint8_t
